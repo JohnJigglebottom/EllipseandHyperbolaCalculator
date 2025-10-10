@@ -1,0 +1,3 @@
+Just ignore the script.js, script.js.bak, and style.css. Only open the index.html
+This will open a website, since its entirely web based. 
+Thank you! - Gar Gar
